@@ -3,7 +3,16 @@ entries:
   matomo:
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T22:03:17.312900093+01:00"
+    created: "2024-03-25T22:05:26.102720029+01:00"
+    description: A Helm chart Matomo
+    digest: 6be5ad4b24a9e2e793363c82578572cead15b7850b501ee48455128025cf87e4
+    name: matomo
+    urls:
+    - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.35.tgz
+    version: 11.0.35
+  - apiVersion: v2
+    appVersion: 5.0.3
+    created: "2024-03-25T22:05:26.096597983+01:00"
     description: A Helm chart Matomo
     digest: 3220f20246655a08ebfe7a255b9be1c7dcd071532c1cb5f38434ad3b7eaa10db
     name: matomo
@@ -12,7 +21,7 @@ entries:
     version: 11.0.34
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T22:03:17.311001042+01:00"
+    created: "2024-03-25T22:05:26.09542994+01:00"
     description: A Helm chart Matomo
     digest: bd328899f65a70c9260e71fbb7c0fc42cfffaca720aff424b2ba3c210e8e391f
     name: matomo
@@ -21,7 +30,7 @@ entries:
     version: 11.0.33
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T22:03:17.301545737+01:00"
+    created: "2024-03-25T22:05:26.094147491+01:00"
     description: A Helm chart Matomo
     digest: f099f9834883a9a292b7dd67975688ff444af180856654742ceeeb90835f6ae8
     name: matomo
@@ -30,7 +39,7 @@ entries:
     version: 11.0.32
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T22:03:17.300155474+01:00"
+    created: "2024-03-25T22:05:26.093051351+01:00"
     description: A Helm chart Matomo
     digest: 555f1858df4a12958acc488509a302d05c1feb0c35958b82c370d1522dbc6323
     name: matomo
@@ -39,11 +48,11 @@ entries:
     version: 11.0.31
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T22:03:17.298750655+01:00"
+    created: "2024-03-25T22:05:26.091864487+01:00"
     description: A Helm chart Matomo
     digest: 0598add0bef5746cabb958ffebb30a4cd4e26505582dbd4de57036195fb3f635
     name: matomo
     urls:
     - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.29.tgz
     version: 11.0.29
-generated: "2024-03-25T22:03:17.296180655+01:00"
+generated: "2024-03-25T22:05:26.090087874+01:00"
