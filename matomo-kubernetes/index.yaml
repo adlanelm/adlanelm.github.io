@@ -8,6 +8,6 @@ entries:
     digest: 0598add0bef5746cabb958ffebb30a4cd4e26505582dbd4de57036195fb3f635
     name: matomo
     urls:
-    - https://adalanelm.github.io/matomo-kubernetes/matomo-11.0.29.tgz
+    - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.29.tgz
     version: 11.0.29
 generated: "2024-03-24T00:25:31.041778039+01:00"
