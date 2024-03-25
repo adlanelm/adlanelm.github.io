@@ -3,11 +3,20 @@ entries:
   matomo:
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-24T00:25:31.04383058+01:00"
+    created: "2024-03-25T13:50:03.205743511+01:00"
+    description: A Helm chart Matomo
+    digest: 3226f79869a46beba78b964cadc501231de4d35a38ba2db5f4457a1bf2e402b6
+    name: matomo
+    urls:
+    - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.30.tgz
+    version: 11.0.30
+  - apiVersion: v2
+    appVersion: 5.0.3
+    created: "2024-03-25T13:50:03.204092254+01:00"
     description: A Helm chart Matomo
     digest: 0598add0bef5746cabb958ffebb30a4cd4e26505582dbd4de57036195fb3f635
     name: matomo
     urls:
     - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.29.tgz
     version: 11.0.29
-generated: "2024-03-24T00:25:31.041778039+01:00"
+generated: "2024-03-25T13:50:03.201848591+01:00"
