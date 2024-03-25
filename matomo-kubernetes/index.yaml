@@ -3,7 +3,16 @@ entries:
   matomo:
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T15:34:15.952260808+01:00"
+    created: "2024-03-25T19:45:25.717069609+01:00"
+    description: A Helm chart Matomo
+    digest: bd328899f65a70c9260e71fbb7c0fc42cfffaca720aff424b2ba3c210e8e391f
+    name: matomo
+    urls:
+    - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.33.tgz
+    version: 11.0.33
+  - apiVersion: v2
+    appVersion: 5.0.3
+    created: "2024-03-25T19:45:25.716148384+01:00"
     description: A Helm chart Matomo
     digest: f099f9834883a9a292b7dd67975688ff444af180856654742ceeeb90835f6ae8
     name: matomo
@@ -12,7 +21,7 @@ entries:
     version: 11.0.32
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T15:34:15.951343952+01:00"
+    created: "2024-03-25T19:45:25.715005826+01:00"
     description: A Helm chart Matomo
     digest: 555f1858df4a12958acc488509a302d05c1feb0c35958b82c370d1522dbc6323
     name: matomo
@@ -21,11 +30,11 @@ entries:
     version: 11.0.31
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-03-25T15:34:15.950412294+01:00"
+    created: "2024-03-25T19:45:25.713372041+01:00"
     description: A Helm chart Matomo
     digest: 0598add0bef5746cabb958ffebb30a4cd4e26505582dbd4de57036195fb3f635
     name: matomo
     urls:
     - https://adlanelm.github.io/matomo-kubernetes/matomo-11.0.29.tgz
     version: 11.0.29
-generated: "2024-03-25T15:34:15.949285694+01:00"
+generated: "2024-03-25T19:45:25.711781019+01:00"
